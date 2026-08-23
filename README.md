@@ -1,5 +1,7 @@
 # Voice Command Shopping Assistant
 
+🔗 **Live Demo:** [voice-command-shopping-two.vercel.app](https://voice-command-shopping-two.vercel.app/)
+
 An ultra-minimalist, editorial-style web application designed for hands-free shopping list management. Built with **Vite, React, TypeScript, and Tailwind CSS**, it features browser-native speech recognition paired with a custom client-side multilingual natural language processing (NLP) parser. 
 
 No external server or paid API keys are required—all voice processing and intelligence operations run entirely client-side for maximum speed and privacy.
@@ -90,3 +92,7 @@ Here are examples of commands supported in different languages:
 | **French** | **ADD** | *"Ajouter 3 bouteilles de lait bio"* | Qty: `3`, Unit: `bouteilles`, Attr: `bio`, Item: `lait` |
 | **German** | **ADD** | *"Füge zwei flaschen wasser hinzu"* | Qty: `2`, Unit: `flaschen`, Item: `wasser` |
 | **German** | **CHECK** | *"Abhaken Eier"* | Item: `eier` |
+
+---
+
+🔗 **Live Site:** Hosted on Vercel at [https://voice-command-shopping-two.vercel.app/](https://voice-command-shopping-two.vercel.app/)
